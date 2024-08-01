@@ -124,7 +124,13 @@ while True:
                 a = xR
             iteraciones+=1  
 
-print("+-----+---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+")
+print("+-----+---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+\n")
+print(f" Los datos finales fueron segun el error solicitado ({errorPorcentualUser}%): ")
+print(f"\t- a: {a}")
+print(f"\t- b: {b}")
+print(f"\t- xr: {xR}")
+print(f"\t- f(xr): {fXR}")
+print(f"\t- error: {errorPorcentualObtenido}")
 print("\nFin del programa...\n")
 
         
