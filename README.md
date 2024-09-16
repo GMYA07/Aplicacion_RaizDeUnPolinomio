@@ -1,4 +1,4 @@
-Aplicación para Encontrar Raíces de un Polinomio
+# Aplicación para Encontrar Raíces de un Polinomio
 Este proyecto se centra en el desarrollo de una aplicación en Python diseñada para calcular las raíces de un polinomio y evaluar el margen de error asociado a dicha solución. Esta herramienta es útil para estudiantes y profesionales en matemáticas e ingeniería, facilitando el análisis de polinomios en diversas aplicaciones.
 
 # Funcionalidades
